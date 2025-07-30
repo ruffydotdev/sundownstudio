@@ -1,0 +1,129 @@
+p {
+  font-size: 2.2vw;
+}
+h1 {
+  font-size: 11vw;
+}
+h3 {
+  font-size: 4.5vw;
+}
+h5 {
+  font-size: 2.5vw;
+}
+
+/* Styling the Navbar... */
+
+.navbar {
+  padding-left: 3vw;
+  padding-right: 3vw;
+  padding-top: 8vw;
+}
+.nav-tags {
+  display: none;
+}
+
+.navbar img {
+  width: 100px;
+}
+.phone-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+.line {
+  width: 25px;
+  height: 3px;
+  background-color: rgba(0, 0, 0, 0.668);
+}
+
+/* Styling the Hero Section...... */
+.landing-center {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: center;
+  /* height: 100vh; */
+  max-height: 100vh;
+  padding: 2vw 0;
+  gap: 15vw;
+}
+
+.right-landing-page {
+  width: 100%;
+}
+
+.left-landing-page {
+  width: 55vw;
+}
+.circle {
+  width: 90vw;
+  height: 50vw;
+  filter: blur(45px);
+}
+
+/* styling the details section...... */
+.details h2 {
+  width: 50%;
+  font-size: 4.5vw;
+}
+.details .right-image {
+  width: 35%;
+}
+
+.gola {
+  top: 35%;
+  left: 20%;
+  width: 40vw;
+  height: 40vw;
+  filter: blur(35px);
+}
+
+/* Styling the show reel section....... */
+.left-reel h1 {
+  font-size: 5.5vw;
+}
+.showreel {
+  height: 60vh;
+}
+.left-reel p {
+  font-size: 1.7vw;
+}
+
+/* Styling the swiper page*/
+.swiper-section {
+  padding: 8vw 4vw;
+}
+.swiper-slide img {
+  width: 20vw;
+}
+.brand-para {
+  font-size: 1.8vw;
+}
+
+/* Styling the footer Scetion */
+
+.footer {
+  padding-top: 10vw;
+}
+
+.top-footer {
+  flex-direction: column;
+}
+.bottom-footer a {
+  font-size: 2vw;
+}
+.footer-links {
+  font-size: 10vw;
+}
+
+.top-right {
+  width: 35%;
+  gap: 5vw;
+}
+input::placeholder {
+  font-size: 2vw;
+}
+.top-right i {
+  width: 5%;
+}

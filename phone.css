@@ -1,0 +1,256 @@
+h1 {
+  font-size: 14vw;
+  line-height: 0.8;
+}
+h2 {
+  font-size: 4vw;
+}
+h3 {
+  font-size: 4.5vw;
+}
+h4 {
+  font-size: 2.3vw;
+}
+h5 {
+  font-size: 2.5vw;
+}
+p {
+  font-size: 3.5vw;
+  line-height: 1.1;
+}
+
+/* Styling the Navbar... */
+
+.navbar {
+  padding-left: 3vw;
+  padding-right: 3vw;
+  padding-top: 8vw;
+}
+.nav-tags {
+  display: none;
+}
+
+.navbar img {
+  width: 100px;
+}
+.phone-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+.line {
+  width: 25px;
+  height: 3px;
+  background-color: rgba(0, 0, 0, 0.668);
+}
+
+/* Styling the Hero Section...... */
+.landing-center {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: auto;
+  padding: 15vw 0;
+  gap: 20vw;
+}
+
+.right-landing-page {
+  width: 100%;
+}
+
+.left-landing-page {
+  width: 65vw;
+}
+.circle {
+  width: 90vw;
+  height: 50vw;
+  filter: blur(45px);
+}
+
+/* Styling Video Section... */
+.landing-page-video {
+  width: 100%;
+  padding: 2vw;
+  height: 60vh;
+}
+
+.landing-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 25px;
+}
+/* Styling the Moving text section..... */
+.page-2 {
+  padding: 15vw 0;
+}
+.text-circle {
+  width: 10vw;
+  height: 10vw;
+}
+
+/* styling the details section...... */
+
+.details {
+  padding: 0 6vw;
+  flex-direction: column;
+}
+
+.details h2 {
+  font-size: 8vw;
+  width: 100%;
+  padding-top: 8vw;
+}
+.details .right-image {
+  padding-top: 10vw;
+  width: 75%;
+  margin-bottom: 45px;
+}
+
+.gola {
+  top: 25%;
+  left: 30%;
+  width: 75vw;
+  height: 75vw;
+  filter: blur(20px);
+}
+
+/* Styling the project section............ */
+
+.project-header {
+  margin-bottom: 35px;
+  padding-left: 5vw;
+}
+.orange-dot {
+  width: 8px;
+  height: 8px;
+}
+
+.elements {
+  padding: 3vw 5vw;
+}
+
+.project-type {
+  font-family: NeueHassLight;
+}
+
+.all-project {
+  font-size: 12px;
+}
+
+/* Styling the show reel section....... */
+.page-5 {
+  width: 100%;
+  padding: 4vw;
+  background-color: var(--bg-color);
+}
+.showreel {
+  width: 100%;
+  min-height: 80vh;
+  flex-direction: column;
+}
+.left-reel {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  padding: 15vw;
+  flex-direction: column;
+}
+
+.left-reel h1 {
+  font-size: 8vw;
+  padding-bottom: 2.5vw;
+  padding-left: 2.5vw;
+  border-left: 3px solid rgb(80, 74, 69);
+}
+
+.left-reel p {
+  font-size: 3vw;
+  height: 80vh;
+}
+
+.right-reel {
+  width: 100%;
+  height: 50%;
+}
+
+/* Styling the swiper page*/
+
+.swiper {
+  margin: 85px 0;
+}
+
+.swiper-slide {
+  width: 70%;
+  padding: 0 4vw 0 4vw;
+  gap: 5.5vw;
+}
+
+.swiper-slide img {
+  width: 35vw;
+}
+.brand-para {
+  text-align: left;
+  font-size: 3.5vw;
+  font-family: sundown1;
+}
+
+.drag-cursor {
+  width: 40px;
+  height: 40px;
+}
+
+/* Styling the footer section........... */
+
+.page-6 {
+  height: 60vh;
+}
+
+.footer {
+  height: 60vh;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 4.5vw 2.5vw 4.5vw 2.5vw;
+}
+
+.top-footer {
+  gap: 35px;
+}
+.top-left {
+  gap: 1px;
+}
+
+.top-right {
+  width: 85%;
+}
+.top-right h5 {
+  width: 65%;
+  font-size: 4vw;
+  font-weight: 400;
+}
+
+.top-right input {
+  padding: 2vw 0;
+}
+
+input::placeholder {
+  font-size: 2.2vw;
+}
+.top-right i {
+  width: 5%;
+  color: rgb(112, 112, 112);
+}
+
+.bottom-footer {
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 2vw 2vw 0 2vw;
+  border-top: 1px solid rgb(52, 52, 52);
+}
+.bottom-footer a {
+  font-size: 2vw;
+}

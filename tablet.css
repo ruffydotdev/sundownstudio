@@ -1,0 +1,210 @@
+h1 {
+  font-size: 11vw;
+}
+h2 {
+  font-size: 4vw;
+}
+h3 {
+  font-size: 3vw;
+}
+h4 {
+  font-size: 1.3vw;
+}
+h5 {
+  font-size: 2.5vw;
+}
+p {
+  font-size: 1.9vw;
+  line-height: 1.1;
+}
+
+/* Styling the Navbar... */
+.navbar {
+  padding: 3.5vw 0;
+}
+
+.navbar img {
+  width: 150px;
+}
+.nav-tags {
+  gap: 2vw;
+}
+.nav-tags h4 {
+  font-size: 15px;
+  padding: 7px 15px;
+}
+
+/* Styling the Hero Section... */
+.landing-center {
+  height: 65vh;
+}
+.left-landing-page {
+  width: 40vw;
+}
+
+/* Styling the Moving text section..... */
+.text-circle {
+  width: 50px;
+  height: 50px;
+}
+
+/* styling the details section...... */
+.details h2 {
+  width: 55%;
+  font-size: 4vw;
+  padding-top: 14vw;
+}
+.details .right-image {
+  padding-top: 22vw;
+  width: 30%;
+}
+.details .right-image img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.gola {
+  top: 35%;
+  left: 25%;
+  width: 38vw;
+  height: 38vw;
+  filter: blur(50px);
+}
+
+/* Styling the project section............ */
+.project-header {
+  padding-left: 4vw;
+  margin-bottom: 45px;
+}
+
+
+.elements {
+  padding: 3vw 4vw;
+}
+.project-details h4 {
+  font-size: 1.6vw;
+}
+.fixed-video {
+  top: 25%;
+  left: 45%;
+  width: 30vw;
+  height: 40vw;
+  border-radius: 15px;
+}
+.all-project {
+  margin-left: 4vw;
+  font-size: 13px;
+}
+
+/* Styling the show reel section....... */
+.page-5 {
+  padding: 4vw;
+}
+.showreel {
+  height: 80vh;
+  border-radius: 20px;
+}
+
+.left-reel h1 {
+  font-size: 4.5vw;
+}
+
+.left-reel p {
+  font-size: 1.8vw;
+}
+
+/* Styling the swiper page*/
+.swiper-section {
+  padding: 5vw 4vw;
+}
+
+.swiper-slide {
+  width: 40%;
+  padding: 0 6vw 0 3vw;
+  gap: 2.5vw;
+}
+
+.swiper-slide img {
+  width: 16vw;
+}
+.brand-para {
+  font-size: 1.5vw;
+}
+
+.drag-cursor {
+  width: 50px;
+  height: 50px;
+}
+
+/* Styling the footer section */
+
+.page-6 {
+  height: 100vh;
+}
+
+.footer {
+  height: 100vh;
+}
+.footer h3 a {
+  font-size: 4vw;
+}
+.top-footer {
+  padding: 2vw 3vw 2vw 3vw;
+}
+.top-left {
+  gap: 10px;
+}
+
+.footer a {
+  font-size: 4vw;
+}
+
+.top-right {
+  width: 35%;
+}
+
+.top-right input {
+  width: 80%;
+  padding: 1vw 0;
+}
+
+input::placeholder {
+  font-size: 1.2vw;
+  letter-spacing: 1px;
+}
+.top-right i {
+  width: 5%;
+}
+
+.bottom-footer {
+  padding: 2.5vw 2vw 0 2vw;
+}
+.bottom-footer a {
+  font-size: 1.2vw;
+}
+
+.footer-gola {
+  filter: blur(80px);
+}
+
+.footer-gola-1 {
+  top: 0;
+  left: 0;
+  width: 50vw;
+  height: 40vw;
+}
+.footer-gola-2 {
+  top: 0;
+  left: 50%;
+  width: 100vw;
+  height: 40vw;
+}
+.footer-gola-3 {
+  top: 0;
+  right: 0;
+  width: 50vw;
+  height: 40vw;
+}
+.footer-links {
+  font-size: 5vw;
+}
