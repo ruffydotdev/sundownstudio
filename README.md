@@ -17,10 +17,7 @@ A clone of the Sundown Studio website built for practice using **Vanilla JavaScr
 - JavaScript (ES6+)
 - [GSAP](https://greensock.com/gsap/)
 - [Swiper.js](https://swiperjs.com/)
-
-## 📸 Preview
-
-![Screenshot](./screenshot.png) <!-- Replace with your actual screenshot filename if available -->
+ <!-- Replace with your actual screenshot filename if available -->
 
 ## 📦 Setup Instructions
 
